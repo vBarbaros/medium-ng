@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+/* Reset some default styles for the page layout */
+html {
+  position: relative;
+}
+
+body {
+  width: 27rem;
+  overflow-y: auto;
+  overflow-x: auto;
+}
