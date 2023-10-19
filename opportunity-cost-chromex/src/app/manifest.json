@@ -1,0 +1,13 @@
+{
+  "name": "OppCost",
+  "version": "2.0",
+  "description": "You can quickly verify if something is worth it relative to your golden standard",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_icon": {
+      "19": "assets/images/opp-cost-32x32.png",
+      "38": "assets/images/opp-cost-132x132.png"
+    },
+    "default_popup": "index.html"
+  }
+}

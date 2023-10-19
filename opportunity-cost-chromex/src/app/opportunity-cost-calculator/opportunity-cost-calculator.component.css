@@ -1,0 +1,56 @@
+.ui.raised.segment {
+  padding: 20px;
+  background-color: #f7f7f7;
+  border: 2px solid #d3d3d3;
+  border-radius: 3px;
+}
+
+.ui.header {
+  max-width: 45rem;
+  margin: 2px auto 10px;
+  color: #333;
+  text-align: center;
+}
+
+.ui.form {
+  max-width: 45rem;
+  margin: 2px auto;
+}
+
+.ui.button {
+  margin: auto;
+  text-align: center;
+  display: flex;
+  background-color: greenyellow;
+  color: blueviolet;
+  font-size: 20px;
+  border: none;
+  border-radius: 50px;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.ui.button:hover {
+  background-color: #0056b3;
+}
+
+.ui.message {
+  margin: auto;
+  text-align: center;
+  display: flex;
+  background-color: #d4edda;
+  color: #155724;
+  border: 1px solid #c3e6cb;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+/* Align input fields to the right */
+.field input {
+  text-align: left;
+}
+
+div .inline-image {
+  height: 25px;
+  width: 25px;
+}
